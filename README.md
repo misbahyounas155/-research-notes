@@ -1,2 +1,1 @@
-# -research-notes
-My independent research notes across CS, Philosophy, Cognitive Psychology and English Literature
+Hi, I am Misbah Younas, a 4th semester BSCS student at AIOU Islamabad. I research and write across four disciplines — Computer Science, Cognitive Psychology, Philosophy of Mind, and English Literature. This repository contains my independent research notes and reflections. I am actively seeking international research collaborations.
