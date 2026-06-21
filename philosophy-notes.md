@@ -1,7 +1,4 @@
-
-# Philosophy Notes — Misbah Younas
-
-## Can Suffering Make a Person Wise?
+ Can Suffering Make a Person Wise?
 Pain alone does not deepen humans. Reflected pain does.
 Suffering becomes wisdom when a person understands 
 patterns, accepts reality, and observes themselves honestly.
